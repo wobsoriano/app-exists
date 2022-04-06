@@ -1,6 +1,6 @@
 # app-exists
 
-Check if an app exists on macOS in Go.
+Go module to check if an app exists on macOS.
 
 ## Install
 
